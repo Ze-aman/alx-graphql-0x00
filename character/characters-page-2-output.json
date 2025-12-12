@@ -1,0 +1,21 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "21",
+          "name": "Kyle",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+        },
+        {
+          "id": "22",
+          "name": "Tuskine Raider",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+        }
+        
+      ]
+    }
+  }
+}
